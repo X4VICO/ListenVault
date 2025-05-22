@@ -3,7 +3,6 @@ Herramienta para pasar videos a textos para su futuro procesado con IA
 
 ---
 
----
 Para poder crear resúmenes mediante videos/podcast voy a crear un script que me automatice todo el proceso.
 # Objetivo
 - Descargar audio de un video/podcast con **yt-dpl**
@@ -52,7 +51,3 @@ También tendremos que instalar **ffmpeg**
 | Uso profesional, publicación o archivado     | `medium` o `large` |
 | Alta precisión + audio difícil o con ruido   | `large`            |
 | PC con poca RAM o sin GPU dedicada           | `tiny` o `base`    |
-
----
-
-![[resumepodcast.py]]
